@@ -1,4 +1,6 @@
 FileName, CommitSha
+Playbooks/Bicep/Add-Query-Results-From-Alerts-To-Incident.bicep,e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
 sentinel-deployment.config,d80187e4920f994072bbade9c7d385e18ac27063
 Playbooks/Bicep/Send-email-with-formatted-incident-report.bicep,986b1b43fbaab36adecca676a64594e60edc94e2
+Playbooks/ARM/Send-email-with-formatted-incident-report.json,5fd65b89718da6e276b27ca38d925bd2a2475a61
 
