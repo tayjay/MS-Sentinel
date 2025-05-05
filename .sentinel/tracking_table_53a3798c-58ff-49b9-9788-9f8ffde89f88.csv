@@ -1,2 +1,4 @@
 FileName, CommitSha
+sentinel-deployment.config,d80187e4920f994072bbade9c7d385e18ac27063
+Playbooks/Bicep/Send-email-with-formatted-incident-report.bicep,986b1b43fbaab36adecca676a64594e60edc94e2
 
